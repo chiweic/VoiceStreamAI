@@ -314,3 +314,5 @@ Finally, push and create a pull request.
 
 This project is open for contributions. Feel free to fork the repository and
 submit pull requests.
+
+## Notes
